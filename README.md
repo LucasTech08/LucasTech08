@@ -4,6 +4,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/share/1bfccapcpe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1bfccapcpe/" height="30" width="40" /></a>
 </p>
+<p align="center">
+  <img src="!![anh](https://github.com/user-attachments/assets/b0ad2cc7-9a32-4028-9781-110fb3506859)
+
+" width="300" style="border-radius: 20px;">
+</p>
+
 
